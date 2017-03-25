@@ -1,37 +1,15 @@
 ## Welcome to yongge's blog
 
-You can use the [editor on GitHub](https://github.com/yongge666/yongge.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### yonggeit.cn
+2017-03 yongge博客正式上线,致力于前后端开发和运维技术交流,记录勇哥团队的成长历程.
+### yonggeit团队
+2016-03 yongge团队正式成立,成员来自北上广深的有志青,成员中有多年开发经验的php开发工程师,前端和运维架构师,通往财富自由之路是我们的目标.如果你也有一个优秀的coder,欢迎加入yongge这个逗逼而有梦的团队.
+```yongge团队成员简介
+#### yongge
+##### 原名李勇,勇哥团队创始人.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+更多详情请见 [yonggeit.cn](http://yonggeit.cn/).
 
-### Markdown
+### 联系我们
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yongge666/yongge.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+请移步(http://yonggeit.com/contact) 获取详细的联系方式.
